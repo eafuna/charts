@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  batc12-cloudsploit:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-06-13T21:01:48.481062618+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 00e3878debedf4021be0aa7c0592e921c64f4416ee6119d08d21ec53b5ae9adf
+    name: batc12-cloudsploit
+    type: application
+    urls:
+    - https://eafuna.github.io/charts/batc12-cloudsploit-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-13T21:01:48.480742141+08:00"
